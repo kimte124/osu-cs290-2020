@@ -1,0 +1,11 @@
+{
+    "name": "hw6",
+    "version": "1.0.0",
+    "description": "Homework 6 to log exercises",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ted Kim",
+    "license": "ISC"
+  }
